@@ -1,0 +1,7 @@
+tr {
+    background-color: lightgrey;
+}
+
+tr, th {
+    text-align: center;
+}
